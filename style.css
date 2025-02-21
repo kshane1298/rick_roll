@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #000;
+}
+
+.container {
+    text-align: center;
+}
+
+#counter {
+    color: white;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+}
+
+iframe {
+    border: none;
+    border-radius: 10px;
+}
